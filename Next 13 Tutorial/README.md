@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 13 - Getting Started
 
-## Getting Started
+[![Next.js 13 - Getting Started](http://i3.ytimg.com/vi/NAkt_FKID8Y/hqdefault.jpg)](https://www.youtube.com/watch?v=NAkt_FKID8Y 'Next.js 13 - Getting Started')
 
-First, run the development server:
+# Ultimate Guide to Dynamic Routes & Navigation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+[![Ultimate Guide to Dynamic Routes & Navigation](http://i3.ytimg.com/vi/Jm38tqJRaK8/hqdefault.jpg)](https://www.youtube.com/watch?v=Jm38tqJRaK8 'Ultimate Guide to Dynamic Routes & Navigation')
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Ultimate SEO For Dummies - Next.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Ultimate SEO For Dummies - Next.js](http://i3.ytimg.com/vi/4wLcPND40aY/hqdefault.jpg)](https://www.youtube.com/watch?v=4wLcPND40aY 'Ultimate SEO For Dummies - Next.js')
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# How Layouts & Route Groups Work - Next.js 13
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![How Layouts & Route Groups Work - Next.js 13](http://i3.ytimg.com/vi/N4gy56w-V50/hqdefault.jpg)](https://www.youtube.com/watch?v=N4gy56w-V50 'How Layouts & Route Groups Work - Next.js 13')
